@@ -13,10 +13,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Marks](https://img.shields.io/badge/Component%20A-5%2F5-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-CC0%20Public%20Domain-lightgrey?style=flat-square)
-![Made With](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%2B%20%F0%9F%A7%A0-red?style=flat-square)
 
 <p align="center">
   <i>🎯 Segmenting mall customers by income & spending behavior — three algorithms, one dataset, side by side.</i>
