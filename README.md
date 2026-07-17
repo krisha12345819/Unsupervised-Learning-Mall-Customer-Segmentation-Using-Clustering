@@ -150,9 +150,9 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 <table>
 <tr>
-<td><img src="Images/Distribution_of_age.png" alt="Age Distribution"></td>
-<td><img src="Images/Distribution_of_Annual_Income.png" alt="Income Distribution"></td>
-<td><img src="Images/Distribution_of_Spending_Score.png" alt="Spending Score Distribution"></td>
+<td><img src="./images/Distribution_of_age.png" alt="Age Distribution"></td>
+<td><img src="./images/Distribution_of_Annual_Income.png" alt="Income Distribution"></td>
+<td><img src="./images/Distribution_of_Spending_Score.png" alt="Spending Score Distribution"></td>
 </tr>
 <tr>
 <td align="center"><sub><b>Age</b> — skews 25–40</sub></td>
@@ -169,8 +169,8 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 <table>
 <tr>
-<td><img src="Images/Elobw_method.png" alt="Elbow Method"></td>
-<td><img src="Images/Silhouette_Score_for_Different_k.png" alt="Silhouette Score"></td>
+<td><img src="./images/Elobw_method.png" alt="Elbow Method"></td>
+<td><img src="./images/Silhouette_Score_for_Different_k.png" alt="Silhouette Score"></td>
 </tr>
 </table>
 
@@ -184,7 +184,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 ### 🌳 Agglomerative Hierarchical Clustering
 
-<img src="Images/Dendrogram.png" alt="Dendrogram" width="85%">
+<img src="./images/Dendrogram.png" alt="Dendrogram" width="85%">
 
 *Cutting at the tallest uncrossed gap (red dashed line) yields 5 clusters — matching K-Means.*
 
@@ -196,7 +196,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 ### ⚖️ K-Means vs Hierarchical — Head to Head
 
-<img src="Images/K-Means_vs_Hierarchical_Clustering.png" alt="K-Means vs Hierarchical" width="95%">
+<img src="./images/K-Means_vs_Hierarchical_Clustering.png" alt="K-Means vs Hierarchical" width="95%">
 
 *Nearly identical boundaries — only a handful of border customers are assigned differently.*
 
@@ -208,7 +208,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 ### 📈 DBSCAN — Estimating `eps`
 
-<img src="Images/4-NN_Distance_Plot.png" alt="4-NN Distance Plot" width="85%">
+<img src="./images/4-NN_Distance_Plot.png" alt="4-NN Distance Plot" width="85%">
 
 *The "knee" in the curve (~0.4) guides the eps choice, later confirmed via full grid search.*
 
@@ -220,7 +220,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 ### 🏁 Final Showdown — All Three Algorithms
 
-<img src="Images/Clustering_Algorithm_Comparison.png" alt="Clustering Algorithm Comparison" width="100%">
+<img src="./images/Clustering_Algorithm_Comparison.png" alt="Clustering Algorithm Comparison" width="100%">
 
 </div>
 
