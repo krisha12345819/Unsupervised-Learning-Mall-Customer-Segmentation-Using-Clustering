@@ -257,7 +257,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 <div align="center">
 
-📹 **[▶️ Watch the Full Walkthrough](#)**
+📹 **[▶️ Watch the Full Walkthrough](https://drive.google.com/file/d/1CU8216GtjYqq4WAJmw1qPCri1hS_rvlt/view?usp=sharing)**
 <!-- 🔁 Replace the # above with your video link once uploaded (Google Drive / YouTube Unlisted) -->
 
 > ⚠️ *Video not yet uploaded — this link will be updated once recording is complete.*
