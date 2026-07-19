@@ -257,7 +257,7 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 
 <div align="center">
 
-📹 **[▶️ Watch the Full Walkthrough](https://drive.google.com/file/d/1x7Z5-dsnQhkEZBBU1mIG0NjmliUuaG_A/view?usp=sharing)**
+📹 **[▶️ Watch the Full Walkthrough](https://drive.google.com/file/d/1qEhrfGw5WTujFSHd9zcUpiyouAW5W-mt/view?usp=sharing)**
 
 **Covers:** scaling rationale → Elbow/Silhouette reasoning → reading the dendrogram → DBSCAN tuning → algorithm comparison → business insights
 
