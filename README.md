@@ -252,6 +252,16 @@ Groups dense regions, flags sparse points as **noise** — no `k` required.
 > 🏆 **Recommended for deployment:** **K-Means** — the clearest, most stakeholder-friendly segmentation. **Hierarchical** is the best backup when a dendrogram aids a management presentation. **DBSCAN** shines specifically for outlier / anomaly detection.
 
 ---
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://unsupervised-learning-mall-customer-segmentation-using-cluster.streamlit.app/)
+
+🔗 **Live URL:**  
+https://unsupervised-learning-mall-customer-segmentation-using-cluster.streamlit.app/
+
+---
 
 ## 🎥 Video Walkthrough
 
